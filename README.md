@@ -1,12 +1,16 @@
-# 👩🏻‍💻 Carlos Eduardo
+# 👩🏻‍💻 Olá! Eu sou o Carlos Eduardo
 
 **`Desenvolvedor FullStack`**
 
 Me chamo Carlos Eduardo, tenho 19 anos e venho diretamente da Zona Leste de São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP. Sou encantado por tecnologia e busco cada vez mais adquirir aprendizados, compartilhar e aplicar meus conhecimentos.
 
+👩🏻‍💻 Software Engineering Student at FIAP University
+🎨 In love about learn constantly and creativity
+💭 Currently learning about data analytics and PHP
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -100,14 +104,14 @@ Me chamo Carlos Eduardo, tenho 19 anos e venho diretamente da Zona Leste de São
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=karterkkj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=karterkkj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-us" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=karterkkj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=karterkkj&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>

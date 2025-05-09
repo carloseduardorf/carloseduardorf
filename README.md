@@ -114,7 +114,7 @@ Me chamo Carlos Eduardo, tenho 19 anos e venho diretamente da Zona Leste de São
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=karterkkj&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 

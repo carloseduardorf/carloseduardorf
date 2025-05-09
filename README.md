@@ -4,31 +4,6 @@
 
 Me chamo Carlos Eduardo, tenho 19 anos e venho diretamente da Zona Leste de São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP. Sou encantado por tecnologia e busco cada vez mais adquirir aprendizados, compartilhar e aplicar meus conhecimentos.
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/karterkkj?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/karterkkj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/karterkkj?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/karterkkj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/karterkkj?tab=Gmail">
-        <img 
-            alt="Gmail" 
-            title="Me contate por E-Mail" 
-            src="https://custom-icon-badges.demolab.com/badge/mail/Mail-E61B23.svg?logo=mail?color=236ad3&labelColor=1155ba&style=for-the-badge&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias

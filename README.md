@@ -10,7 +10,7 @@ My name is Carlos Eduardo, I'm 19 years old and I come from the East Zone of Sã
 <p>
     👩🏻‍💻 Software Engineering Student at FIAP University<br/>
     🎨 In love about learn constantly and creativity<br/>
-    💭 Currently learning about data analytics and PHP
+    💭 Currently learning about data analytics and React with Typescript
 </p>
 
 ---

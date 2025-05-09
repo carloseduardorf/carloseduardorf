@@ -4,10 +4,18 @@
 
 Me chamo Carlos Eduardo, tenho 19 anos e venho diretamente da Zona Leste de São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP. Sou encantado por tecnologia e busco cada vez mais adquirir aprendizados, compartilhar e aplicar meus conhecimentos.
 
-👩🏻‍💻 Software Engineering Student at FIAP University
-🎨 In love about learn constantly and creativity
-💭 Currently learning about data analytics and PHP
-
+<p>
+<a>
+    👩🏻‍💻 Software Engineering Student at FIAP University
+</a>
+<a>
+    🎨 In love about learn constantly and creativity
+</a>
+<a>
+    💭 Currently learning about data analytics and PHP
+</a>
+    
+</p>
 ---
 
 ### 🤖 Languages ​​and Technologies

@@ -24,7 +24,7 @@ Me chamo Carlos Eduardo, tenho 19 anos e venho diretamente da Zona Leste de São
         <img 
             alt="Gmail" 
             title="Me contate por E-Mail" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
+            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=red"
         />
     </a>
 </p>

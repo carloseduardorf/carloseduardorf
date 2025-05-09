@@ -20,6 +20,13 @@ Me chamo Carlos Eduardo, tenho 19 anos e venho diretamente da Zona Leste de São
             src="https://custom-icon-badges.demolab.com/github/followers/karterkkj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://github.com/karterkkj?tab=Gmail">
+        <img 
+            alt="Gmail" 
+            title="Me contate por E-Mail" 
+            src="[mail]: https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
+        />
+    </a>
 </p>
 
 ---

@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Olá! Eu sou o Carlos Eduardo
+# 👩🏻‍💻 Hey! I'm Carlos Eduardo
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Carlos Eduardo, tenho 19 anos e venho diretamente da Zona Leste de São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP. Sou encantado por tecnologia e busco cada vez mais adquirir aprendizados, compartilhar e aplicar meus conhecimentos.
+My name is Carlos Eduardo, I'm 19 years old and I come from the East Zone of São Paulo. I'm currently studying Software Engineering at FIAP. I'm fascinated by technology and I'm always looking to learn, share and apply my knowledge.
 
 ---
 

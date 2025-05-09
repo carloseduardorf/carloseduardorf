@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 My name is Carlos Eduardo, I'm 19 years old and I come from the East Zone of São Paulo. I'm currently studying Software Engineering at FIAP. I'm fascinated by technology and I'm always looking to learn, share and apply my knowledge.<br/>
-###[✉ caedu.profissional@gmail.com](caedu.profissional@gmail.com)
+### [✉ caedu.profissional@gmail.com](caedu.profissional@gmail.com)
 
 ---
 

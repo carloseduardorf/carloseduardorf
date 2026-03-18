@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Hey! I'm Carlos Eduardo
+# 👩🏻‍💻 Hey! I'm Carlos Ribeiro
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
-My name is Carlos Eduardo, I'm 19 years old and I come from the East Zone of São Paulo. I'm currently studying Software Engineering at FIAP. I'm fascinated by technology and I'm always looking to learn, share and apply my knowledge.<br/>
+My name is Carlos Eduardo, I'm 20 years old and I come from the East Zone of São Paulo. I'm currently studying Software Engineering at FIAP. I'm fascinated by technology and I'm always looking to learn, share and apply my knowledge.<br/>
 ### [✉ caedu.profissional@gmail.com](caedu.profissional@gmail.com)
 
 ---
@@ -96,6 +96,14 @@ My name is Carlos Eduardo, I'm 19 years old and I come from the East Zone of Sã
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"" 
 />
 
 <br/>

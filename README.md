@@ -43,11 +43,11 @@ My name is Carlos Eduardo, I'm 20 years old and I come from the East Zone of Sã
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
     align="left" 
